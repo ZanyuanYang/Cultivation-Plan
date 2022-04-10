@@ -1,0 +1,16 @@
+<view class="section_1">
+  <view class="title">
+    Hello, Renee
+  </view>
+  <view class="picture">
+    <image class="avatar" src="../../images/avatar.png"></image>
+  </view>
+</view>
+
+<view class="section_2">
+  <view class='left'>
+    <view class="left_1">Today</view>
+    <view class="left_2">2/10 tasks</view>
+  </view>
+  <image class="right" src="../../images/task_svg.svg"></image>
+</view>
