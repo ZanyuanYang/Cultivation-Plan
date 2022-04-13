@@ -12,5 +12,81 @@
     <view class="left_1">Today</view>
     <view class="left_2">2/10 tasks</view>
   </view>
-  <image class="right" src="../../images/task_svg.svg"></image>
+  <image class="right" src="../../images/task.png"></image>
 </view>
+
+<view class="section_3">
+  <view class="title">To do</view>
+  <scroll-view scroll-y class="scroll">
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">运动一小时</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">分享一件开心的事</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">吃早餐</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">运动一小时</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">运动一小时</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+    <view class="todo_list">
+      <view class="todo_info">
+        <view class="todo_row1">运动一小时</view>
+        <view class="todo_row2">
+          <image class="todo_icon" src="../../images/todo.png"></image>
+          <view class="todo_title">今日任务</view>
+        </view>
+      </view>
+    </view>
+  </scroll-view>
+</view>
+
+
+
+
+<view class="nav">
+  <view class="add_task">
+    <view class="add_task_plus">+</view>
+  </view>
+  <view class="nav_wrapper">
+    <image class="nav_icon" src='../../images/navbar/home_color.png'></image>
+    <image class="nav_icon" src='../../images/navbar/list.png'></image>
+    <image class="nav_icon" src='../../images/navbar/clock.png'></image>
+    <image class="nav_icon" src='../../images/navbar/me.png'></image>
+  </view>
+</view>
+
